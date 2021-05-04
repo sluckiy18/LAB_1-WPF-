@@ -24,7 +24,7 @@ namespace LAB_1_WPF_
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
 
              
