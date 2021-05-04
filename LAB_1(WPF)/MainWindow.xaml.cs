@@ -37,7 +37,7 @@ namespace LAB_1_WPF_
                        * Math.Pow(Math.Abs(x - y), x + y);
             double b = Math.Atan(x) + Math.Atan(z);
             double c = Math.Cbrt(Math.Pow(x, 6) + Math.Pow(Math.Log10(y),2.0));
-            double rezult = a / b + c; 
+            double rezult = a / b + c;
             Rezalt.Text = rezult.ToString();
         }
 
