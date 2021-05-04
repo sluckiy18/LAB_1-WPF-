@@ -24,7 +24,7 @@
         <TextBlock FontSize="36" Margin="20" Grid.Row="2" >Z=</TextBlock>
         <TextBox Name="XValue" FontSize="36" Margin="20" Grid.Row="0" Grid.Column="1">0.02235</TextBox>
         <TextBox Name="YValue" FontSize="36" Margin="20" Grid.Row="1" Grid.Column="1">2.23</TextBox>
-        <TextBox Name="ZValue" FontSize="36" Margin="20" Grid.Row="2" Grid.Column="1"> 15.221</TextBox>
+        <TextBox Name="ZValue" FontSize="36" Margin="20" Grid.Row="2" Grid.Column="1"> 15.2211</TextBox>
         <Button Grid.Column="1" Grid.Row="3" Margin="20" HorizontalAlignment="Left" FontSize="24" Width="100" Click="Button_Click">Calculate</Button>
         <TextBox Name="Rezalt" Grid.Row="4" Grid.ColumnSpan="2" FontSize="36"/>
     </Grid>
